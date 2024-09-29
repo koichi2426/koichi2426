@@ -6,7 +6,7 @@
 
 ## 🌐 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/koichi_2426)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/koichi_2426)
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/koichi2426)
 [![Protopedia](https://img.shields.io/badge/Protopedia-FFA500?style=for-the-badge&logo=protopedia&logoColor=white)](https://protopedia.net/prototyper/ko2426)
 
