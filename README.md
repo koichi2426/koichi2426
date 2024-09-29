@@ -1,21 +1,15 @@
 <div align="center">
-
 # こんにちは、koichiです！ 👋🌟
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=koichi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Passionate%20Creator&descAlignY=51&descAlign=62)
-
 ## 🚀 About Me
-
 ```
 ✨ Passionate Creator | Innovative Thinker | Tech Enthusiast ✨
 ```
-
 </div>
 
 ---
 
 ## 🛠️ Tech Mastery
-
 <div align="center">
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -36,7 +30,6 @@
 ---
 
 ## 📊 GitHub Insights
-
 <div align="center">
 
 ### Language Proficiency
@@ -52,8 +45,6 @@
 ---
 
 <div align="center">
-
-[![Spotify](https://novatorem-koichi2426.vercel.app/api/spotify)](https://open.spotify.com/user/koichi2426)
 
 ![Visitor Count](https://profile-counter.glitch.me/koichi2426/count.svg)
 
