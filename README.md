@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 ```
-✨ Passionate Creator | Innovative Thinker | Tech Enthusiast ✨
+✨ ものづくりをしています ✨
 ```
 
 </div>
