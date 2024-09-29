@@ -53,8 +53,6 @@
 
 <div align="center">
 
-[![Spotify](https://novatorem-koichi2426.vercel.app/api/spotify)](https://open.spotify.com/user/koichi2426)
-
 ![Visitor Count](https://profile-counter.glitch.me/koichi2426/count.svg)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
