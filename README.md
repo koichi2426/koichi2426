@@ -1,9 +1,5 @@
 <div align="center">
 
-# こんにちは、koichiです！ 👋🌟
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=300&section=header&text=koichi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Passionate%20Creator%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=62&fontColor=fff)
-
 ## 🚀 About Me
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DD2476&center=true&vCenter=true&width=435&lines=%E2%9C%A8+%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99+%E2%9C%A8;%E2%9C%A8+Creating+innovative+solutions+%E2%9C%A8;%E2%9C%A8+Pushing+boundaries+in+tech+%E2%9C%A8" alt="Typing SVG" />
