@@ -8,6 +8,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DD2476&center=true&vCenter=true&width=435&lines=%E2%9C%A8+%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99+%E2%9C%A8;%E2%9C%A8+Creating+innovative+solutions+%E2%9C%A8;%E2%9C%A8+Pushing+boundaries+in+tech+%E2%9C%A8" alt="Typing SVG" />
 
+## 🌐 Connect with Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/koichi_2426)
+[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/koichi2426)
+[![Protopedia](https://img.shields.io/badge/Protopedia-FFA500?style=for-the-badge&logo=protopedia&logoColor=white)](https://protopedia.net/prototyper/ko2426)
+
 </div>
 
 ---
