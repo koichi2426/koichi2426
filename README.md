@@ -18,3 +18,13 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koichi2426&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koichi2426&show_icons=true&theme=radical)
