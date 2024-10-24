@@ -53,6 +53,7 @@
 ### Design
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FFB500?style=for-the-badge&logo=autodesk&logoColor=white)
 
 </div>
 
