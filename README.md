@@ -1,24 +1,31 @@
 ## Profile
 
 <table>
-  <tr>
-    <td width="60" align="center">
-      <a href="https://www.wantedly.com/id/koichi_eng">
-        <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="40" alt="Website" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.wantedly.com/id/koichi_eng">
-        <b>Koichi Sato - Portfolio & Career</b>
-      </a>
-      <br>
-      私について、これまでのキャリア、これからのキャリアについて。
-      <br>
-      <a href="https://www.wantedly.com/id/koichi_eng">
-        <img src="https://img.shields.io/badge/🔗_Visit_Page-wantedly.com-blue?style=flat-square" alt="Link">
-      </a>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left">
+        🔴 🟡 🟢 &nbsp; <b>Koichi's Portfolio</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <br>
+        <a href="https://www.wantedly.com/id/koichi_eng">
+          <img src="https://img.icons8.com/ios-filled/100/222222/user-menu-male.png" width="50" alt="Icon" />
+        </a>
+        <br>
+        <h3>About Me & Career History</h3>
+        <p>私について / これまでのキャリア / 今後のビジョン</p>
+        <a href="https://www.wantedly.com/id/koichi_eng">
+          <img src="https://img.shields.io/badge/View_Portfolio-Wantedly-2685FC?style=for-the-badge&logo=wantedly&logoColor=white" alt="View Portfolio">
+        </a>
+        <br>
+        <br>
+      </td>
+    </tr>
+  </tbody>
 </table>
 <br>
 
