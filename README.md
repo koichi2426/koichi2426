@@ -53,30 +53,6 @@
     <td width="20%" valign="top">
       <table>
         <tr>
-          <th align="left">&nbsp; 🔴 🟡 🟢 &nbsp; <b>Blog</b></th>
-        </tr>
-        <tr>
-          <td align="center">
-            <br>
-            <a href="https://qiita.com/koichi2426">
-              <img src="https://img.icons8.com/fluency/96/edit.png" width="40" alt="Blog Icon">
-            </a>
-            <br>
-            <h3>Article</h3>
-            <p>技術記事</p>
-            <br>
-            👇 <b>Read</b> 👇<br>
-            <a href="https://qiita.com/koichi2426">
-              <img src="https://img.shields.io/badge/Qiita-Articles-55c500?style=for-the-badge&logo=qiita&logoColor=white" alt="Read Qiita">
-            </a>
-            <br><br>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="20%" valign="top">
-      <table>
-        <tr>
           <th align="left">&nbsp; 🔴 🟡 🟢 &nbsp; <b>Request</b></th>
         </tr>
         <tr>
@@ -92,6 +68,30 @@
             👇 <b>Consult</b> 👇<br>
             <a href="https://crowdworks.jp/public/employees/6786898">
               <img src="https://img.shields.io/badge/CrowdWorks-Consult-FF5722?style=for-the-badge" alt="Consult on CrowdWorks">
+            </a>
+            <br><br>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="20%" valign="top">
+      <table>
+        <tr>
+          <th align="left">&nbsp; 🔴 🟡 🟢 &nbsp; <b>Blog</b></th>
+        </tr>
+        <tr>
+          <td align="center">
+            <br>
+            <a href="https://qiita.com/koichi2426">
+              <img src="https://img.icons8.com/fluency/96/edit.png" width="40" alt="Blog Icon">
+            </a>
+            <br>
+            <h3>Article</h3>
+            <p>技術記事</p>
+            <br>
+            👇 <b>Read</b> 👇<br>
+            <a href="https://qiita.com/koichi2426">
+              <img src="https://img.shields.io/badge/Qiita-Articles-55c500?style=for-the-badge&logo=qiita&logoColor=white" alt="Read Qiita">
             </a>
             <br><br>
           </td>
