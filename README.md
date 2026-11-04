@@ -106,6 +106,9 @@
         <tr>
           <td align="center">
             <br>
+            <a href="https://www.instagram.com/koichi2426eng/">
+              <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="40" alt="Instagram Icon">
+            </a>
             <a href="https://x.com/koichi_2426">
               <img src="https://img.icons8.com/fluency/96/twitter.png" width="40" alt="X Icon">
             </a>
@@ -114,6 +117,10 @@
             <p>連絡先・DM</p>
             <br>
             👇 <b>Follow</b> 👇<br>
+            <a href="https://www.instagram.com/koichi2426eng/">
+              <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow Instagram">
+            </a>
+            <br>
             <a href="https://x.com/koichi_2426">
               <img src="https://img.shields.io/badge/X (Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow X">
             </a>
